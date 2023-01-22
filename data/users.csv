@@ -1,0 +1,78 @@
+id,created_at,username,phone,city,postalcode,country,is_marketing_agree,is_auth
+1,,dev@joecompany.com,019-9431-9599,,,,0,0
+2,2010-10-01 19:01:29,joejoe@joecompany.com,019-8445-0497,Seoul,99301,Korea,1,1
+3,2010-10-03 20:28:39,inr01@never.com,019-9997-1451,New York,49981,USA,1,0
+4,2010-10-11 9:23:01,fuxp76@never.com,019-8799-8837,Seoul,98910,Korea,1,0
+5,2010-10-23 10:39:05,phk4938@never.com,019-4688-7780,Buenos Aires,68306,Argentina,0,1
+6,2010-10-23 11:01:59,tuintumall@never.com,019-8899-7005,México D.F.,67000,Mexico,0,1
+7,2010-10-29 15:03:48,ty+yunu@never.com,019-9878-3936,Bern,28023,Switzerland,0,1
+8,2010-11-02 19:32:01,9019ingk@zmail.com,019-7738-4377,São Paulo,13008,Brazil,1,0
+9,2010-12-02 22:19:28,crakh4560@never.com,019-6486-5900,London,T2F 8M4,UK,1,0
+10,2010-12-11 15:02:34,yukiadadaken@joecompany.com,019-9997-1451,Seoul,EC2 5NT,Korea,0,1
+11,2010-12-23 17:01:34,ml5050g@onemail.net,019-8944-8111,Nantes,1019,France,0,1
+12,2010-12-24 19:02:38,khine1099k@never.com,019-9994-4914,London,5022,UK,0,1
+13,2010-12-24 20:37:21,kkwkd0000@never.com,019-3955-7109,Graz,3012,Austria,1,0
+14,2010-12-24 23:28:45,ccauccaccn@never.com,019-3957-8830,São Paulo,05432-043,Brazil,1,0
+15,2010-12-25 0:28:01,kykim15@never.com,019-9789-1436,Madrid,WX1 6LT,Spain,1,0
+16,2010-12-25 1:38:52,ajh4504@never.com,019-9488-9849,Lille,52066,France,1,0
+17,2010-12-25 14:23:56,gonnykyle@joecompany.com,019-3334-7734,Seoul,44000,Korea,1,0
+18,2010-12-25 15:42:24,wun9+ktury@never.com,019-6670-9408,MüncCen,WX3 6FW,Canada,1,0
+19,2010-12-25 18:21:01,uneten19@mate.com,019-3843-0013,Nantes,8019,France,1,0
+20,2010-12-25 20:02:27,ty+yunu@never.com,019-4475-3007,Torino,05442-030,Italy,1,0
+21,2010-12-25 22:01:37,igalleria@onemail.com,019-5995-4448,Lisboa,28034,Portugal,1,0
+22,2010-12-30 10:32:22,kkman0196@zmail.com,019-4590-9199,Barcelona,59000,Spain,0,1
+23,2011-01-23 10:19:20,ktk1009@never.com,019-3133-4989,Sevilla,S-844 67,Spain,0,1
+24,2011-01-24 0:02:19,marketikm@never.com,019-8810-9699,Campinas,80805,Brazil,0,1
+25,2011-01-25 0:03:29,changane@never.com,019-8898-9904,Eugene,44000,USA,0,1
+26,2011-01-27 1:11:37,autukmart1@never.com,019-9535-4690,Busan,10190,Korea,1,0
+27,2011-01-27 17:59:57,support@something.com,019-4749-3494,Rio de Janeiro,1675,Brazil,1,1
+28,2011-01-28 21:09:08,tumu3383@never.com,019-5678-5799,Busan,8022,Korea,1,1
+29,2011-03-11 13:02:28,ijk1130@next.net,019-7994-3357,Cork,04876-786,Ireland,1,0
+30,2011-04-02 14:18:28,hj+hk0893@never.com,019-9616-7547,Cowes,97403,UK,0,1
+31,2011-04-29 15:45:54,daeun91199@never.com,019-9811-9968,Brandenburg,1081,Canada,1,1
+32,2011-05-01 16:28:42,p8543x@never.com,019-9616-7547,Versailles,05454-876,France,0,1
+33,2011-05-04 18:02:01,kh-mall@never.com,019-9811-9968,Toulouse,5022,France,1,0
+34,2011-06-28 19:02:31,jaewun306@never.com,019-7709-8716,Vancouver,97827,Canada,1,0
+35,2011-06-30 19:03:22,ckdtjfgj@never.com,019-9794-9494,Walla Walla,98128,USA,1,0
+36,2011-07-05 20:08:27,Iron@joecompany.com,019-7709-8716,Frankfurt a.M.,PO31 7PJ,Canada,1,1
+37,2011-07-29 10:01:28,ccywunupt@never.com,019-9794-9494,San Francisco,14776,USA,1,0
+38,2011-09-02 10:59:28,mapuninja@never.com,019-9965-3809,Busan,78000,Korea,0,1
+39,2011-09-05 11:24:32,redccuy378@mate.com,019-7484-7715,Busan,31000,Korea,0,1
+40,2011-09-08 12:01:28,kdh1913@never.com,019-3158-9797,Portland,V3F 2K1,USA,0,1
+41,2011-10-10 13:02:38,kikkikhan@next.net,019-8876-6666,Bergamo,99362,Italy,1,1
+42,2011-11-12 13:31:41,juunrae79@never.com,019-4935-1470,Bruxelles,60528,Belgium,1,1
+43,2011-11-18 13:56:33,companymuunwun@never.com,019-4535-3599,Montréal,94117,Canada,1,0
+44,2011-12-09 12:30:31,tuday+pluk@never.com,019-9419-1751,Leipzig,3508,Canada,1,0
+45,2011-12-30 21:09:08,hk-dumaemall@never.com,019-4609-9874,London,4980,UK,1,0
+46,2012-03-12 20:07:28,superscott@joecompany.com,019-6394-7994,Buenos Aires,97219,Argentina,1,0
+47,2012-05-01 13:02:28,kkhhgg3001@mate.com,019-3878-1167,AncCorage,24100,USA,1,0
+48,2012-10-11 14:18:28,greenhaje@never.com,019-4619-0646,Köln,B-1180,Canada,0,1
+49,2012-10-15 15:45:54,dnekdxkdxkd15@never.com,019-5490-0401,Paris,C1J 1C3,France,0,1
+50,2012-10-17 16:28:42,jupazip@never.com,019-4199-3999,México D.F.,4179,Mexico,1,0
+51,2012-10-28 18:02:01,kty5767@never.com,019-9998-6086,Salzburg,SW7 1RZ,Austria,1,0
+52,2012-11-02 19:02:31,hj07066@mate.com,019-4619-0646,Lisboa,1019,Portugal,0,1
+53,2012-11-09 19:03:22,vicxxu@never.com,019-4693-1969,Rio de Janeiro,99508,Brazil,1,0
+54,2012-11-18 10:01:28,kwku796@mate.com,019-4165-5793,São Paulo,50739,Brazil,1,0
+55,2012-11-29 10:59:28,ganamukic@never.com,019-5177-7555,Cunewalde,75012,Canada,1,0
+56,2012-12-07 11:24:32,chicagufarm@never.com,019-4993-9874,Buenos Aires,5033,Argentina,1,0
+57,2012-12-14 12:01:28,marco@joecompany.com,019-4993-9874,Madrid,1307,Spain,1,0
+58,2012-12-18 15:02:34,eyuuncnt@onemail.net,019-8810-9330,Reggio Emilia,1756,Italy,1,0
+59,2012-12-23 17:01:34,gcukmu9@never.com,019-8659-9701,Rio de Janeiro,02389-673,Brazil,1,0
+60,2012-12-28 19:02:38,fitnekkkture@never.com,019-9331-5914,Genève,05487-020,Switzerland,1,0
+61,2012-12-31 20:37:21,dmktn9595@never.com,019-3897-9389,Madrid,1307,Spain,1,0
+62,2012-12-31 23:28:45,dnjkdi@mate.com,019-7738-0875,Stavern,1019,Norway,0,1
+63,2013-01-11 0:28:01,kkg1661@never.com,019-4993-9874,Boise,1734,USA,0,1
+64,2013-01-28 1:38:52,xccarcude@never.com,019-9399-3994,London,75016,UK,0,1
+65,2013-02-02 14:23:56,dnfl5655@never.com,019-4793-9783,KøbenCavn,82520,Denmark,0,1
+66,2013-02-05 15:42:24,gmlrccaldud@mate.com,019-7136-1800,Paris,B-6000,France,1,0
+67,2013-02-10 18:21:01,hkdanggn@never.com,019-9495-9174,Lander,97201,USA,1,1
+68,2013-02-27 20:02:27,miumiu0501@never.com,019-4841-9198,CCarleroi,59801,Belgium,1,1
+69,2013-03-18 22:01:37,lee++chan@mate.com,019-5818-4800,Portland,44087,USA,1,1
+70,2013-03-30 13:02:28,jjkh4903@never.com,019-7774-5116,Butte,5033,USA,1,0
+71,2013-04-02 14:18:28,jhc6733@onemail.net,019-5093-8930,Münster,05634-030,Canada,0,1
+72,2013-05-22 15:45:54,ccuniegagu@never.com,019-9934-9096,México D.F.,98034,Mexico,1,1
+73,2013-07-07 16:28:42,aenucqq@zmail.com,019-7701-7950,São Paulo,8200,Brazil,0,1
+74,2013-07-10 18:02:01,fifayuu575@never.com,019-3085-8541,Kirkland,69004,USA,1,0
+75,2013-08-15 19:02:31,gnk1995@never.com,019-8776-0880,ÅrCus,51100,Denmark,1,0
+76,2013-10-20 19:03:22,dcc1889@never.com,019-3619-5191,Lyon,70563,France,1,0
+77,2013-12-31 20:08:27,lwj3131@never.com,019-4399-0859,Reims,90110,France,1,1
