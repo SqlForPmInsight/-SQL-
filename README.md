@@ -10,3 +10,9 @@
 
 #### 3. 우측 하단의 "download" 버튼 클릭
 <img width="1374" alt="3" src="https://user-images.githubusercontent.com/123231058/213897732-0adf40b0-f3a5-4539-b164-6fd4b2031e34.png">
+
+
+인프런 강의 
+ - [개념반]무작정 풀어보는 SQL 쿼리  :  [링크](https://inf.run/85QvE)
+ - [문풀반]작정하고 풀어보는 SQL 쿼리 : [링크](https://inf.run/kjtvv)
+
